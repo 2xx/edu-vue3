@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{o,Y as r}from"./runtime-core.esm-bundler-d5958d54.js";const c={};function n(t,s){return o(),r("h1",null,"默认显示的首页")}const f=e(c,[["render",n]]);export{f as default};

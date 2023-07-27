@@ -1,0 +1,1 @@
+import{_ as r}from"./_plugin-vue_export-helper-c27b6911.js";import{o as e,Y as o}from"./runtime-core.esm-bundler-d5958d54.js";const c={};function t(n,a){return e(),o("h1",null,"报错页面")}const f=r(c,[["render",t]]);export{f as default};
